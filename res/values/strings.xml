@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Calculator</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="digit0">0</string>
+    <string name="digit1">1</string>
+    <string name="digit2">2</string>
+    <string name="digit3">3</string>
+    <string name="digit4">4</string>
+    <string name="digit5">5</string>
+    <string name="digit6">6</string>
+    <string name="digit7">7</string>
+    <string name="digit8">8</string>
+    <string name="digit9">9</string>
+    
+    <string name="dot">.</string>
+    <string name="operandMinus">-</string>
+    <string name="operandPlus">+</string>
+    <string name="operandMul">*</string>
+    <string name="operandDiv">/</string>
+    <string name="operandEqual">=</string>
+    
+    <string name="clear">C</string>
+    <string name="infinity">∞</string>
+    
+
+</resources>
